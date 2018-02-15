@@ -1,5 +1,4 @@
 using cwbx;
-using Npgsql;
 
 namespace iseriesexample
 {
